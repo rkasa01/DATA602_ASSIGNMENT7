@@ -1,0 +1,7 @@
+Abstract
+
+The World Happiness Report measures global happiness through surveys collected by the Gallup World Poll. Answers are collected based on a Cantril ladder life question. Participants are asked to think of lifestyles on a ladder, with their ideal and best possible life being at a 10, or the top of the ladder, and their worst possible life at a 0, or the very bottom of the ladder. They are then asked to rate their own lives on this scale along with seven main observed factors that may contribute to their responses. These seven factors are: economic production, social support, life expectancy, freedom, perceptions of corruption, generosity, and positive and negative affect. This dataset features data collected from 2013-2018. For the purpose of this project, I decided to focus on the most recent data collected, 2018.
+
+Happiness records are significant in recognizing the emotional and mental wellbeing of groups of people, and can, therefore, be used to make informed decisions on a governmental and organizational level to help improve quality of life for the general population. These reports can also be used to assess international progression. With this dataset, we can look at world happiness and use a variety of factors, such as social support and finances, to evaluate their potential impact on happiness. 
+
+Kaggle Link for Dataset: https://www.kaggle.com/datasets/unsdsn/world-happiness/
